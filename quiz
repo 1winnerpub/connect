@@ -3,7 +3,7 @@
 "question" : "Which country hosted the 2022 FIFA World Cup?",
 "image_url" : "https://i.ibb.co/THzhYBQ/fifa.jpg",
 "right_answer" : 2,
-"bonus" : 10,
+"bonus" : 100,
 "answers" : [
     "Italy",
     "France",
